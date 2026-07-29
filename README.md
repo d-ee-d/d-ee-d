@@ -1,15 +1,37 @@
 ## d-ee-d
 
-**Backend Engineer** · ex-Fullstack · 3+ years of experience
+**Backend Engineer** · ex-Fullstack · writing code since 2019
 
-Backend & systems, с уклоном в gamedev-инфраструктуру.
-Пишу на Go, Rust, TypeScript, Python и Lua — беру язык под задачу, а не наоборот.
-Фронт знаю не понаслышке — просто выбрал бэкенд.
+Backend & systems, with a lean toward gamedev infrastructure.
+Rust, Go, Python, TypeScript — I pick the language for the job, not the other way around.
+I know the frontend firsthand — I just chose the backend.
 
-```
-go · rust · typescript · svelte · python · lua
-postgres · docker · kubernetes · task · mise
-```
+AI agents are part of the daily workflow, not a demo — Claude Code, Codex,
+custom MCP servers and hooks. I write the harness as carefully as the code.
+
+### Stack
+
+| Area | Tools |
+| --- | --- |
+| Rust | Tokio · Axum · Serde · SQLx · Tracing |
+| Go | chi · huma · sqlx · pgx · migrate |
+| Python | FastAPI · AsyncIO · SQLAlchemy · Alembic · Pytest · uv · ruff |
+| TypeScript / JavaScript | React · Redux Toolkit · Zod · Shadcn UI · Radix UI · Vite · Axios · Node.js · Bun |
+| HTML / CSS | Tailwind CSS · Bootstrap |
+| SQL | PostgreSQL · MySQL / MariaDB · SQLite |
+| NoSQL | Redis · Valkey · S3 |
+| Queues / Streaming | Apache Kafka · RabbitMQ · NATS |
+| Observability | Prometheus · Grafana · ELK (Elasticsearch, Logstash, Kibana) |
+| Infrastructure | Docker · Docker Compose · Kubernetes/K8s · Argo CD |
+| Cloud | AWS · GCP · Azure |
+| Protocols | gRPC · Protobuf · REST · OpenAPI · Swagger · RPC · WebSockets |
+| Frameworks | Playwright |
+| Testing | Unit · Integration · E2E |
+| Tools | Linux · Bash |
+| Git | GitHub · GitLab · Bitbucket · GitFlow · Trunk-based |
+| AI tools | Claude Code · Codex · Kimi · GLM · GitHub Copilot |
+| Engineering culture | Mentoring · Onboarding · Code review · Documentation |
+| Process | Agile · Scrum · Kanban · Waterfall · Jira · Confluence · Slack · Miro · Figma |
 
 ### Projects
 
@@ -21,9 +43,9 @@ postgres · docker · kubernetes · task · mise
 
 ### Now
 
-- Building — <!-- что сейчас пилишь -->
-- Learning — <!-- что копаешь -->
-- Open to — <!-- контракты / коллаборации / ничего -->
+- Building — <!-- what you're shipping -->
+- Learning — <!-- what you're digging into -->
+- Open to — <!-- contracts / collaboration / nothing -->
 
 ### Contact
 
@@ -35,11 +57,38 @@ postgres · docker · kubernetes · task · mise
 
 <br>
 
-**Backend-инженер** · в прошлом фуллстек · 3+ года опыта
+**Backend-инженер** · в прошлом фуллстек · в разработке с 2019 года
 
 Бэкенд и системное программирование, рядом — геймдев-инфраструктура.
-Go, Rust, TypeScript, Python, Lua. Язык подбираю под задачу.
+Rust, Go, Python, TypeScript. Язык подбираю под задачу, а не наоборот.
 Фронт знаю не понаслышке — просто выбрал бэкенд.
+
+AI-агенты — часть ежедневной работы, а не демо: Claude Code, Codex,
+свои MCP-серверы и хуки. Обвязку пишу так же аккуратно, как код.
+
+**Стек**
+
+| Направление | Инструменты |
+| --- | --- |
+| Rust | Tokio · Axum · Serde · SQLx · Tracing |
+| Go | chi · huma · sqlx · pgx · migrate |
+| Python | FastAPI · AsyncIO · SQLAlchemy · Alembic · Pytest · uv · ruff |
+| TypeScript / JavaScript | React · Redux Toolkit · Zod · Shadcn UI · Radix UI · Vite · Axios · Node.js · Bun |
+| HTML / CSS | Tailwind CSS · Bootstrap |
+| SQL | PostgreSQL · MySQL / MariaDB · SQLite |
+| NoSQL | Redis · Valkey · S3 |
+| Очереди / Стриминг | Apache Kafka · RabbitMQ · NATS |
+| Observability | Prometheus · Grafana · ELK (Elasticsearch, Logstash, Kibana) |
+| Инфра | Docker · Docker Compose · Kubernetes/K8s · Argo CD |
+| Облако | AWS · GCP · Azure |
+| Протоколы | gRPC · Protobuf · REST · OpenAPI · Swagger · RPC · WebSockets |
+| Frameworks | Playwright |
+| Тестирование | Unit · Integration · E2E |
+| Инструменты | Linux · Bash |
+| Git | GitHub · GitLab · Bitbucket · GitFlow · Trunk-based |
+| AI-инструменты | Claude Code · Codex · Kimi · GLM · GitHub Copilot |
+| Инженерная культура | Менторство · Онбординг · Код-ревью · Документация |
+| Процессы | Agile · Scrum · Kanban · Waterfall · Jira · Confluence · Slack · Miro · Figma |
 
 **Проекты**
 
