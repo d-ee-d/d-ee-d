@@ -1,7 +1,10 @@
 ## d-ee-d
 
+**Backend Engineer** · ex-Fullstack · 3+ years of experience
+
 Backend & systems, с уклоном в gamedev-инфраструктуру.
 Пишу на Go, Rust, TypeScript, Python и Lua — беру язык под задачу, а не наоборот.
+Фронт знаю не понаслышке — просто выбрал бэкенд.
 
 ```
 go · rust · typescript · svelte · python · lua
@@ -32,8 +35,11 @@ postgres · docker · kubernetes · task · mise
 
 <br>
 
+**Backend-инженер** · в прошлом фуллстек · 3+ года опыта
+
 Бэкенд и системное программирование, рядом — геймдев-инфраструктура.
 Go, Rust, TypeScript, Python, Lua. Язык подбираю под задачу.
+Фронт знаю не понаслышке — просто выбрал бэкенд.
 
 **Проекты**
 
