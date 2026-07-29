@@ -47,11 +47,6 @@ custom MCP servers and hooks. I write the harness as carefully as the code.
 - Learning — <!-- what you're digging into -->
 - Open to — <!-- contracts / collaboration / nothing -->
 
-### Contact
-
-- Email — [you@example.com](mailto:you@example.com)
-- Telegram — [@yourhandle](https://t.me/yourhandle)
-
 <details>
 <summary>🇷🇺 По-русски</summary>
 
@@ -103,10 +98,5 @@ AI-агенты — часть ежедневной работы, а не дем
 - Делаю — <!-- что сейчас пилишь -->
 - Изучаю — <!-- что копаешь -->
 - Открыт к — <!-- контракты / коллаборации / ничего -->
-
-**Связь**
-
-- Почта — [you@example.com](mailto:you@example.com)
-- Telegram — [@yourhandle](https://t.me/yourhandle)
 
 </details>
